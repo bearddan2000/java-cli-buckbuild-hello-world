@@ -1,0 +1,10 @@
+[parser]
+  default_build_file_syntax = skylark
+
+[alias]
+  alias_to_java = //example:alias-to-java
+
+[java]
+  src_roots = /
+  source_level = 8
+  target_level = 8
